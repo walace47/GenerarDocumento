@@ -27,7 +27,5 @@ import javax.xml.bind.annotation.XmlType;
 @XmlType(name = "CantidadDatosNoSoportadaException")
 public class CantidadDatosNoSoportadaException {
 
-public static void test1(){
-    
-}
+
 }
