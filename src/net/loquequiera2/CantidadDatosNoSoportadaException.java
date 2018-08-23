@@ -30,5 +30,8 @@ public class CantidadDatosNoSoportadaException {
 public static void algo(){
     
 }
+public static void algo2(){
+    
+}
 
 }
