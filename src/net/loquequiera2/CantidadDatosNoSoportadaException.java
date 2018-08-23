@@ -1,3 +1,4 @@
+
 package net.loquequiera2;
 
 import javax.xml.bind.annotation.XmlAccessType;
